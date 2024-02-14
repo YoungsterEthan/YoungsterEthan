@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YoungsterEthan
-- 👀 I’m interested in Bioinformatics and Computer Vision
-- 🌱 I’m currently learning Tensorflow for deep learning
+- 👀 I’m interested in Computer Vision and autonomous systems
+- 🌱 I’m currently learning Pytorch for deep learning
 
 <!---
 YoungsterEthan/YoungsterEthan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
